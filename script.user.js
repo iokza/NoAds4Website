@@ -9,6 +9,8 @@
 // @match        https://nakios.art/*
 // @match        https://webflix.lol/*
 // @match        https://purstream.art/*
+// @updateURL    https://github.com/iokza/NoAds4Website/raw/main/script.user.js
+// @downloadURL  https://github.com/iokza/NoAds4Website/raw/main/script.user.js
 // @grant        none
 // ==/UserScript==
 
