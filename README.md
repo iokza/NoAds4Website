@@ -21,7 +21,7 @@ Un userscript simple et efficace pour bloquer les popups publicitaires tout en �
 2. Ajoute le script via une URL brute GitHub :
 
 ```
-https://github.com/TON-USERNAME/TON-REPO/raw/main/script.user.js
+https://github.com/iokza/NoAds4Website/raw/main/script.user.js
 ```
 
 👉 Remplace par ton propre lien une fois uploadé.
