@@ -1,4 +1,5 @@
-# 🚫 Fake Window.open Blocker
+# 🚫 NoAds4Website
+Fake Window.open Blocker
 
 Un userscript simple et efficace pour bloquer les popups publicitaires tout en évitant de casser le fonctionnement des sites.
 
